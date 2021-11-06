@@ -22,5 +22,3 @@ objWithNums.nums = [2, 3];
 console.log(objWithNums); 
 
 
-export { objWithNewFields, objWithSum, objWithNums };
-
